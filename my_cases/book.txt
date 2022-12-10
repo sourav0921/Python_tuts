@@ -1,0 +1,5 @@
+For many real materials, this creep phase is continued by an overlinear tertiary
+creep phase, which cannot be described by the BURGERS model alone, in
+contrast to the first and second creep phases.
+In a relaxation test, the stresses in the spring C relax through the damper D
+and converge to zero.
